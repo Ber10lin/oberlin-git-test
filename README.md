@@ -1,2 +1,2 @@
 # oberlin-git-test
-Repo untuk mencoba git remove
+Repo untuk mencoba git remote
